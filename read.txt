@@ -1,0 +1,3 @@
+fragment is used , when code is reduntant the we use fragmentation 
+
+mutations is used to manipulate the data
