@@ -3,17 +3,13 @@
     {
       "id": "1",
       "firstName": "sachin",
-      "age": 37,
+      "age": 38,
       "brandId": "23"
     },
     {
       "id": "2",
       "firstName": "kohil",
-      "brandId": "24"
-    },
-    {
-      "id": "3",
-      "firstName": "dhoni",
+      "age":29,
       "brandId": "24"
     },
     {
